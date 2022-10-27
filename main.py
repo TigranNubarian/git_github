@@ -6,5 +6,8 @@ def say_goodbye(): #say_goodbye
     
 # def test():
     print('test')
+
+def say_Tigran():
+    print('tIGRAN')
     
 # approved
